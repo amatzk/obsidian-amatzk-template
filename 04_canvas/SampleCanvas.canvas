@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4d36879dae2ccd21","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"サンプル"},
+		{"id":"48f4006da9e1926c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"さんぷる"},
+		{"id":"a2b9b96cc863884f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"dbf48a633707c710","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"sample 1"},
+		{"id":"b55622ea076fe158","x":-125,"y":200,"width":250,"height":60,"type":"text","text":"sample 2"},
+		{"id":"397d2cb8e2544c64","x":180,"y":200,"width":250,"height":60,"type":"text","text":"Sample 3"}
+	],
+	"edges":[
+		{"id":"04b75f0305f82747","fromNode":"dbf48a633707c710","fromSide":"bottom","toNode":"b55622ea076fe158","toSide":"top"},
+		{"id":"d338e40f4e1691bb","fromNode":"dbf48a633707c710","fromSide":"bottom","toNode":"397d2cb8e2544c64","toSide":"top"}
+	]
+}

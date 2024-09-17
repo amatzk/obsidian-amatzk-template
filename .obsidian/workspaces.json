@@ -1,0 +1,174 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "4f2dedffcb7babec",
+        "type": "split",
+        "children": [
+          {
+            "id": "03bb6189dcf7bedc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e2175e4f9190ac5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_dataview/00_all_by_updated_desc.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3fc6bb0e8e5a084a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9b8f7349c4be646b",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb81e9a5bb533dc6",
+            "type": "tabs",
+            "dimension": 24.520255863539443,
+            "children": [
+              {
+                "id": "f2a3e2439cb34eab",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9398d9c402675aea",
+            "type": "tabs",
+            "dimension": 75.47974413646055,
+            "children": [
+              {
+                "id": "60ab1460e0a6f793",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d4c1c8bdaec2b9ce",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 291.5
+      },
+      "right": {
+        "id": "3b8c3cad91b8fd5d",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f07cd6754ee3e10",
+            "type": "tabs",
+            "dimension": 64.58752515090544,
+            "children": [
+              {
+                "id": "d3ceec7114c16dee",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0241c411ee7ba555",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "020433e299f4cbda",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "ba2ef338343b38e7",
+            "type": "tabs",
+            "dimension": 35.412474849094565,
+            "children": [
+              {
+                "id": "beef9903c7a71599",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:ワークスペースレイアウトを管理": false,
+          "switcher:クイックスイッチャーを開く": true,
+          "graph:グラフビューを開く": false,
+          "canvas:新規キャンバスを作成": true,
+          "command-palette:コマンドパレットを開く": false,
+          "templater-obsidian:Templater": true,
+          "daily-notes:今日のデイリーノートを開く": false,
+          "obsidian-git:Open Git source control": true
+        }
+      },
+      "active": "3fc6bb0e8e5a084a",
+      "mtime": "2024-09-16T14:40:53+09:00"
+    }
+  },
+  "active": "default"
+}

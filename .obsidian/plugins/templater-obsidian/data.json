@@ -1,0 +1,28 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "00_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "02_notes",
+      "template": "00_templates/02_note.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "00_templates/10_current_time.md"
+  ],
+  "startup_templates": []
+}
