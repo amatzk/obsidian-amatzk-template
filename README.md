@@ -325,11 +325,17 @@ Folder templates
 Gitで保管庫を管理するプラグイン
 
 方針：
+- mainブランチ1本
 - コミットは手動で行う
+	- Backup で一括操作
+	- Backup = Staging → Commit → Pull → Push
 - プッシュとプルは定期的に自動で行う
-- リポジトリの競合を可能な限り防ぐ
-- Obsidianの起動時は自動でプル
-- Obsidianの終了方法は`Git: Create backup and close`（Ctrl + Q）を使用
+	- リポジトリの競合を可能な限り防ぐ
+- Obsidianの起動時は自動的にプル
+- Obsidianの終了方法はショートカット（Ctrl + Q）を使用
+	- `Git: Create backup and close`
+		- Backup
+		- Obsidianを閉じる
 
 デフォルトから変更した設定：
 
