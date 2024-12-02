@@ -21,7 +21,9 @@
                     "backlinks": false,
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "00_all_by_updated_desc"
                 }
               },
               {
@@ -31,7 +33,9 @@
                 "state": {
                   "type": "graph",
                   "state": {},
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "グラフビュー"
                 }
               }
             ],
@@ -56,7 +60,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "ファイルエクスプローラ"
                 }
               }
             ]
@@ -71,7 +77,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "git-history-view",
-                  "state": {}
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
                 }
               },
               {
@@ -79,11 +87,12 @@
                 "type": "leaf",
                 "state": {
                   "type": "git-view",
-                  "state": {}
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -105,8 +114,28 @@
                   "type": "outgoing-link",
                   "state": {
                     "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "アウトゴーイングリンク"
+                }
+              },
+              {
+                "id": "1d9032e6d9b31efb",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "バックリンク"
                 }
               },
               {
@@ -114,7 +143,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-list",
+                  "title": "アウトライン"
                 }
               },
               {
@@ -129,11 +160,13 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "検索"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "ba2ef338343b38e7",
@@ -145,7 +178,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
-                  "state": {}
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
                 }
               }
             ]
@@ -166,8 +201,8 @@
           "obsidian-git:Open Git source control": true
         }
       },
-      "active": "3fc6bb0e8e5a084a",
-      "mtime": "2024-09-16T14:40:53+09:00"
+      "active": "020433e299f4cbda",
+      "mtime": "2024-12-02T19:21:17+09:00"
     }
   },
   "active": "default"
